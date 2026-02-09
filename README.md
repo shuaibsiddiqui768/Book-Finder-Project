@@ -1,14 +1,10 @@
 # 📖 Book Finder
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://book-finder1240.netlify.app/)
+**Live Demo:** https://book-finder1240.netlify.app/
 
 A modern, responsive web application built with **React 19** and **Vite**, allowing users to explore millions of books using the **Open Library API**. Search for your favorite titles, dive into detailed book descriptions, and maintain a personalized wishlist.
 
 ---
-<img width="1892" height="907" alt="1" src="https://github.com/user-attachments/assets/e3f95bc7-f007-45cf-aa0e-13a5d4216458" />
-<img width="1898" height="903" alt="2" src="https://github.com/user-attachments/assets/0a352b74-f405-4b20-84da-4b1c224201bf" />
-<img width="1897" height="902" alt="3" src="https://github.com/user-attachments/assets/9399f6f1-99dd-4a1c-9851-c7a8dca9ac4f" />
-<img width="1900" height="911" alt="4" src="https://github.com/user-attachments/assets/7fad90d7-4796-4911-bddf-52b0da64dd6c" />
 
 ## ✨ Features
 
@@ -23,6 +19,15 @@ A modern, responsive web application built with **React 19** and **Vite**, allow
 - **📱 Fully Responsive**: Optimized for desktop, tablet, and mobile viewing.
 
 ---
+
+
+<img width="1892" height="907" alt="1" src="https://github.com/user-attachments/assets/e3f95bc7-f007-45cf-aa0e-13a5d4216458" />
+
+<img width="1898" height="903" alt="2" src="https://github.com/user-attachments/assets/0a352b74-f405-4b20-84da-4b1c224201bf" />
+
+<img width="1897" height="902" alt="3" src="https://github.com/user-attachments/assets/9399f6f1-99dd-4a1c-9851-c7a8dca9ac4f" />
+
+<img width="1900" height="911" alt="4" src="https://github.com/user-attachments/assets/7fad90d7-4796-4911-bddf-52b0da64dd6c" />
 
 ## 🛠️ Tech Stack
 
@@ -97,14 +102,14 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
 ## 👤 Author
 
 **Shuaib Akhtar Siddiqui**
-- GitHub: [@shuaibsiddiqui768](https://github.com/shuaibsiddiqui768)
-- LinkedIn: [Shuaib Akhtar Siddiqui](https://www.linkedin.com/in/sasiddiqui21/)
+- GitHub: https://github.com/shuaibsiddiqui768
+- LinkedIn: https://www.linkedin.com/in/sasiddiqui21/
 
 ---
 
 **Happy Reading!** 📚✨
+
